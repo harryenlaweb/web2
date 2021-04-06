@@ -28,7 +28,7 @@
 
                             <div class="carousel-caption">
                                 <h5>UNIVERSIDAD NACIONAL ARGENTINA</h5>
-                                <p>Carreras presenciales y a Distancia</p>
+                                <p>Carreras presenciales y a distancia</p>
                             </div>
                         </div>
                         <div class="item">
@@ -50,11 +50,11 @@
                     <!-- Controls -->
                     <a class="left carousel-control" href="#carousel-1" role="button" data-slide="prev">
                         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
+                        <span class="sr-only">Anterior</span>
                     </a>
                     <a class="right carousel-control" href="#carousel-1" role="button" data-slide="next">
                         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
+                        <span class="sr-only">Siguiente</span>
                     </a>
                 </div>
             </div>
