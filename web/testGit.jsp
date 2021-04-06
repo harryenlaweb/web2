@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Cambios en git</h1>
+        <h1>Cambios en git.</h1>
     </body>
 </html>
